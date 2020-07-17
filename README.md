@@ -1,1 +1,2 @@
-# alexander_j_GOT2
+# GOT_video
+Update this with a proper readme doc
